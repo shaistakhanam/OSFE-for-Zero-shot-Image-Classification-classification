@@ -31,8 +31,7 @@ Ensure that datasets are correctly formatted before training.
 ### Prerequisites
 
 - Python 3.8+
-- PyTorch
-- TensorFlow (optional, if using certain embeddings)
+- TensorFlow 
 - NumPy, Pandas, Matplotlib
 - Scikit-learn
 
